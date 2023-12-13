@@ -1,0 +1,27 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ÑÇ÷Ì
+E
+java:S3740"/Provide the parametrized type for this generic.(ÑÇ÷Ì
+D
+java:S3740"/Provide the parametrized type for this generic.(ÊÙ…
+D
+java:S3740"/Provide the parametrized type for this generic.(ÊÙ…
+r
+java:S11929"WDefine a constant instead of duplicating this literal "Unsupported convert: [" 3 times.(ßóƒ¦ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çŸ¨Ï
+U
+java:S1118":Add a private constructor to hide the implicit public one.(´ğŠşÿÿÿÿ
+N
+java:S3878"8Remove this array creation and simply pass the elements.(ÑÇ÷Ì
+M
+java:S3878"8Remove this array creation and simply pass the elements.(ÊÙ…
+>
+java:S2129B"#Remove this "Character" constructor(ÂòÇ¹şÿÿÿÿ
+9
+java:S2129I"#Remove this "Character" constructor(±İÏ
+C	java:S108J")Either remove or fill this block of code.(é–³öûÿÿÿÿ
+h
+java:S3776S"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¶øûê
+f
+java:S6202T"KReplace this usage of "String.class.isInstance()" with "instanceof String".(¨€÷»øÿÿÿÿ

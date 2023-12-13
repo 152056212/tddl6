@@ -1,0 +1,53 @@
+
+o
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¢…
+o
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªóË
+p
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈäÙ‘
+u
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê“¼èÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“Ü«–
+
+java:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆ¡çäşÿÿÿÿ
+˜
+java:S1186Ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•œø…
+˜
+java:S1186Õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾ó‹
+˜
+java:S1186Ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜†“©
+˜
+java:S1186İ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒÚ±
+˜
+java:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùòƒ
+
+java:S1186å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âÆ¿øÿÿÿÿ
+˜
+java:S1186é"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(è¦¼
+
+java:S1186í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾çûèşÿÿÿÿ
+˜
+java:S1186ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(À„÷Î
+˜
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ëì×
+
+java:S1186ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê­¥Ëøÿÿÿÿ
+
+java:S1186ı"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–§ÛÙøÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğûì
+
+java:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™¿øûÿÿÿÿ
+
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Í¤®úÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é˜¢ÿÿÿÿÿ
+
+java:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œ¼íäúÿÿÿÿ
+˜
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·½á¡
+Q
+java:S1133ı"5Do not forget to remove this deprecated code someday.(è„ûÓşÿÿÿÿ
+D
+java:S1123ı"(Add the missing @deprecated Javadoc tag.(è„ûÓşÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(éæ÷üÿÿÿÿ

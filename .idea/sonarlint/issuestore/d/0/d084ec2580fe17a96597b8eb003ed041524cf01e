@@ -1,0 +1,44 @@
+
+J
+java:S3740'"/Provide the parametrized type for this generic.(ãÒÙûÿÿÿÿ
+J
+java:S3740'"/Provide the parametrized type for this generic.(ãÒÙûÿÿÿÿ
+J
+java:S3740]"/Provide the parametrized type for this generic.( ÙÛùÿÿÿÿ
+J
+java:S3740f"/Provide the parametrized type for this generic.(Üƒë×øÿÿÿÿ
+J
+java:S3740m"/Provide the parametrized type for this generic.(÷Ê¬ªÿÿÿÿÿ
+J
+java:S3740}"/Provide the parametrized type for this generic.(˜®¾üÿÿÿÿ
+J
+java:S3740}"/Provide the parametrized type for this generic.(˜®¾üÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(š‹‹ûÿÿÿÿ
+F
+java:S3740Ÿ"/Provide the parametrized type for this generic.(¬©„
+F
+java:S3740 "/Provide the parametrized type for this generic.(ÖŠ•¤
+F
+java:S3740­"/Provide the parametrized type for this generic.(×óê‡
+K
+java:S3740Å"/Provide the parametrized type for this generic.(âæôêùÿÿÿÿ
+t
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜®¾üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘Ø›üÿÿÿÿ
+6
+java:S2326""S is not used in the class.(Ù½İŸüÿÿÿÿ
+U
+java:S1118"":Add a private constructor to hide the implicit public one.(Ù½İŸüÿÿÿÿ
+g
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(§íêo
+b
+java:S2445o"L"service" is a method parameter, and should not be used for synchronization.(üõö¹
+J
+java:S1172Ÿ"3Remove this unused method parameter "activateName".(¬©„
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(âæôêùÿÿÿÿ
+P
+java:S4719Ô"9Replace charset name argument with StandardCharsets.UTF_8(×²èé
+F
+java:S2093Ó"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

@@ -1,0 +1,36 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ºéÅ‹ıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ºéÅ‹ıÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(µ”Á·üÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(µ”Á·üÿÿÿÿ
+F
+java:S3740¡"/Provide the parametrized type for this generic.(½ÒĞµ
+F
+java:S3740¡"/Provide the parametrized type for this generic.(½ÒĞµ
+K
+java:S3740°"/Provide the parametrized type for this generic.(¼ôöúÿÿÿÿ
+f
+java:S1192)"PDefine a constant instead of duplicating this literal "' is too small " 3 times.(×óŠÕ
+o
+java:S1192%"TDefine a constant instead of duplicating this literal "' is too large for " 3 times.(ËÓ¡ğùÿÿÿÿ
+d
+java:S1192%"IDefine a constant instead of duplicating this literal " value '" 6 times.(ËÓ¡ğùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çŸ¨Ï
+P
+java:S1118":Add a private constructor to hide the implicit public one.(´ÿİÔ
+<
+java:S2129"!Remove this "Integer" constructor(é¥ûÏıÿÿÿÿ
+6
+java:S2129"!Remove this "Integer" constructor(’ÂÙ*
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ºéÅ‹ıÿÿÿÿ
+>
+java:S11257"(Remove the unnecessary boolean literals.(äÊÈ
+Q	java:S125r"<This block of commented-out lines of code should be removed.(Ú†ï¤
+R	java:S125–"<This block of commented-out lines of code should be removed.(¤Ïç†
+n
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(üæŞ•ûÿÿÿÿ

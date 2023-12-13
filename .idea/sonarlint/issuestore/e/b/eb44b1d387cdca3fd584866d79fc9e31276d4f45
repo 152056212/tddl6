@@ -1,0 +1,9 @@
+
+r
+java:S1192"WDefine a constant instead of duplicating this literal "Unsupported convert: [" 3 times.(Åê£Šþÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çŸ¨Ï
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(›‰Á´
+b
+java:S6202%"GReplace this usage of "Date.class.isInstance()" with "instanceof Date".(Õá—‰üÿÿÿÿ

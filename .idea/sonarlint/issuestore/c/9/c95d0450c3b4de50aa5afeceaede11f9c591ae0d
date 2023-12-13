@@ -1,0 +1,22 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æœâl
+P
+java:S1118":Add a private constructor to hide the implicit public one.(éë¤ì
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹Ôå–
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ê–¬›
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¦š°é
+`
+java:S1124!"EReorder the modifiers to comply with the Java Language Specification.(Œ™Àêşÿÿÿÿ
+`
+java:S1124&"EReorder the modifiers to comply with the Java Language Specification.(éÅìÖûÿÿÿÿ
+[
+java:S1124+"EReorder the modifiers to comply with the Java Language Specification.(ÅµÃ
+`
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(ò”†üÿÿÿÿ
+`
+java:S11245"EReorder the modifiers to comply with the Java Language Specification.(ëÑ‘Šûÿÿÿÿ
+`
+java:S1124:"EReorder the modifiers to comply with the Java Language Specification.(¸ÅÚÖøÿÿÿÿ

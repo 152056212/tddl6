@@ -1,0 +1,22 @@
+
+r
+java:S1192!"WDefine a constant instead of duplicating this literal "Unsupported convert: [" 8 times.(Åê£Šşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çŸ¨Ï
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¹óŞ¡
+a
+java:S6202"KReplace this usage of "String.class.isInstance()" with "instanceof String".(•²÷Ù
+a
+java:S6202,"KReplace this usage of "String.class.isInstance()" with "instanceof String".(•²÷Ù
+a
+java:S6202D"KReplace this usage of "String.class.isInstance()" with "instanceof String".(•²÷Ù
+a
+java:S6202Z"KReplace this usage of "String.class.isInstance()" with "instanceof String".(•²÷Ù
+b
+java:S6202l"GReplace this usage of "Date.class.isInstance()" with "instanceof Date".(œ½ñøÿÿÿÿ
+b
+java:S6202|"GReplace this usage of "Date.class.isInstance()" with "instanceof Date".(œ½ñøÿÿÿÿ
+c
+java:S6202Œ"GReplace this usage of "Date.class.isInstance()" with "instanceof Date".(œ½ñøÿÿÿÿ
+f
+java:S6202œ"OReplace this usage of "Calendar.class.isInstance()" with "instanceof Calendar".(ô­ç…

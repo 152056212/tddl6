@@ -1,0 +1,13 @@
+
+t
+java:S1488-"^Immediately return this expression instead of assigning it to the temporary variable "result".(ò‰¼ü
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎæÁüÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ç„ıÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(Ùú¶ÿÿÿÿÿ
+3
+java:S2119"Save and re-use this "Random".(¼İÅf
+V	java:S125$"<This block of commented-out lines of code should be removed.(¨Åµüÿÿÿÿ
+3
+java:S2119<"Save and re-use this "Random".(¼İÅf

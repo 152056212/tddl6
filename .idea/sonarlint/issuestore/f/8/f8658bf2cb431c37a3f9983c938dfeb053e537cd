@@ -1,0 +1,31 @@
+
+t
+java:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ÂÜµúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æµ¥Øúÿÿÿÿ
+r
+java:S3008"WRename this field "pinsert_into" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù”æžÿÿÿÿÿ
+r
+java:S3008"WRename this field "pdelete_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¾ ¬ûÿÿÿÿ
+r
+java:S3008"WRename this field "pselect_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½³³Øÿÿÿÿÿ
+m
+java:S3008"XRename this field "preplace_from" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ¼
+l
+java:S3008"VRename this field "pfrom_where" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÊžÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(™ŸßÜþÿÿÿÿ
+h
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(œŽóè
+V	java:S125"<This block of commented-out lines of code should be removed.(ºÒËŸúÿÿÿÿ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(µ±ŽÚ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(˜ÏÞ“
+Q	java:S125a"<This block of commented-out lines of code should be removed.(—ù¼‹
+E	java:S106r"+Replace this use of System.out by a logger.(âô¥ðýÿÿÿÿ
+^
+java:S5361s"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ßôó
+‚
+java:S1130z"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+U
+java:S2479|":Remove the non-escaped \u0009 character from this literal.(úÕÐ÷þÿÿÿÿ
+A	java:S106œ"+Replace this use of System.out by a logger.(ž¤Äö
+Ü
+java:S6541 "ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 72 to 64, Complexity from 20 to 14, Nesting Level from 4 to 2, Number of Variables from 10 to 6.(œŽóè

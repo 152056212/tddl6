@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¨Ýîûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(î§ýÕýÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Þ»‰›
+U
+java:S1161"":Add the "@Override" annotation above this method signature(ôîÅºúÿÿÿÿ
+C
+java:S1185'"(Remove this method to simply inherit it.(‡Ê¬±þÿÿÿÿ
+U
+java:S1161'":Add the "@Override" annotation above this method signature(‡Ê¬±þÿÿÿÿ
+;
+java:S19054"&Remove this unnecessary cast to "Map".(Ë¡Ç#

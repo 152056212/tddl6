@@ -1,0 +1,74 @@
+
+E
+java:S3740B"/Provide the parametrized type for this generic.(Ğòö¬
+J
+java:S3740F"/Provide the parametrized type for this generic.(‘ªÒÒşÿÿÿÿ
+J
+java:S3740J"/Provide the parametrized type for this generic.(†»‰ğüÿÿÿÿ
+J
+java:S3740S"/Provide the parametrized type for this generic.(–¦Í·ıÿÿÿÿ
+E
+java:S3740W"/Provide the parametrized type for this generic.(èûö¾
+J
+java:S3740["/Provide the parametrized type for this generic.(ÊÙ„Öüÿÿÿÿ
+E
+java:S3740_"/Provide the parametrized type for this generic.(µªµµ
+E
+java:S3740c"/Provide the parametrized type for this generic.(£àÍá
+J
+java:S3740g"/Provide the parametrized type for this generic.(åÓƒÖıÿÿÿÿ
+E
+java:S3740}"/Provide the parametrized type for this generic.(¢ÇÑ†
+J
+java:S3740~"/Provide the parametrized type for this generic.(¨®»Èøÿÿÿÿ
+F
+java:S3740ƒ"/Provide the parametrized type for this generic.(ÚãÉ±
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(ˆÎÑÔüÿÿÿÿ
+K
+java:S3740Š"/Provide the parametrized type for this generic.(ŒÇ¦áûÿÿÿÿ
+F
+java:S3740¡"/Provide the parametrized type for this generic.(¢ÇÑ†
+K
+java:S3740¢"/Provide the parametrized type for this generic.(ˆÎÑÔüÿÿÿÿ
+F
+java:S3740¶"/Provide the parametrized type for this generic.(îú³€
+F
+java:S3740·"/Provide the parametrized type for this generic.(£÷Ì‰
+F
+java:S3740»"/Provide the parametrized type for this generic.(ÚãÉ±
+K
+java:S3740è"/Provide the parametrized type for this generic.(¨®»Èøÿÿÿÿ
+F
+java:S3740ê"/Provide the parametrized type for this generic.(îú³€
+F
+java:S3740í"/Provide the parametrized type for this generic.(ÚãÉ±
+F
+java:S3740—"/Provide the parametrized type for this generic.(¢ÇÑ†
+F
+java:S3740˜"/Provide the parametrized type for this generic.(£÷Ì‰
+F
+java:S3740"/Provide the parametrized type for this generic.(ÚãÉ±
+K
+java:S3740¨"/Provide the parametrized type for this generic.(ˆÎÑÔüÿÿÿÿ
+K
+java:S3740ª"/Provide the parametrized type for this generic.(ŒÇ¦áûÿÿÿÿ
+s
+java:S1192›"WDefine a constant instead of duplicating this literal "Unsupported convert: [" 4 times.(Åê£Šşÿÿÿÿ
+J
+java:S1066)"/Merge this if statement with the enclosing one.(ï²Ä©ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çŸ¨Ï
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÕØÚËúÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ıëœ—
+g
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(àå£r
+C
+java:S1125"'Remove the unnecessary boolean literal.(Ñ„…Šüÿÿÿÿ
+h
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(àå£r
+h
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(àå£r
+C
+java:S1125¬"'Remove the unnecessary boolean literal.(Ñ„…Šüÿÿÿÿ

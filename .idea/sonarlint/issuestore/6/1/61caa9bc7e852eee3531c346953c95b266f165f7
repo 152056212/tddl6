@@ -1,0 +1,27 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(çÚ¬›úÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Î…Ð‰ÿÿÿÿÿ
+D
+java:S3740"/Provide the parametrized type for this generic.(þÄ»
+J
+java:S3740<"/Provide the parametrized type for this generic.(©Æ–Òýÿÿÿÿ
+J
+java:S3740y"/Provide the parametrized type for this generic.(ÜÍ þýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ÊÆÚ
+o	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©Êò³
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(— —ïÿÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ö£Õ©
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(½’’¾
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÑøØ§ÿÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çû©˜ûÿÿÿÿ
+o
+java:S1210}"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ
+3
+java:S2225Ž"Return empty string instead.(¥¹ï
+j
+java:S2975’"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ž²ÈÞ
+_
+java:S1182’"HUse super.clone() to create and seed the cloned instance to be returned.(Ž²ÈÞ

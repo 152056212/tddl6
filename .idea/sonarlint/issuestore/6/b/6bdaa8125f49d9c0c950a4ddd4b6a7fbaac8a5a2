@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À®Æ‚
+V	java:S125N"<This block of commented-out lines of code should be removed.(˜ùÄŒþÿÿÿÿ
+T
+java:S1155Y">Use isEmpty() to check whether the collection is empty or not.(™­Çþ
+S
+java:S1155e">Use isEmpty() to check whether the collection is empty or not.(¾½¢N

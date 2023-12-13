@@ -1,0 +1,10 @@
+
+o
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÙ‡ˆ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë›ê€øÿÿÿÿ
+N
+java:S2589­"7Remove this expression which always evaluates to "true"(­ñö«
+u
+java:S1149d"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘ã˜‘
+m
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(œÛØ¾ûÿÿÿÿ

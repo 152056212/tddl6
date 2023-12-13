@@ -1,0 +1,20 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ£¬È
+t
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(Äæ¶Îøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ÊÆÚ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(³ï¼
+O
+java:S5993"9Change the visibility of this constructor to "protected".(²šıã
+T
+java:S5993#"9Change the visibility of this constructor to "protected".(ãø¨¨ÿÿÿÿÿ
+i
+java:S29750"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+/
+java:S2225<"Return a non null object.(¥¹ï
+^
+java:S11820"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+[
+java:S1124N"EReorder the modifiers to comply with the Java Language Specification.(Ê—ÀÇ

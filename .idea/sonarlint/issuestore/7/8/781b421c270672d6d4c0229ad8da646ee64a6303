@@ -1,0 +1,21 @@
+
+l
+java:S1192ª"PDefine a constant instead of duplicating this literal "æ›´æ–°è¿‡ç¨‹ï¼š" 3 times.(¡êÃ¯øÿÿÿÿ
+p
+java:S1192­"TDefine a constant instead of duplicating this literal "ï¼Œsequence Nameï¼š" 4 times.(ßêÿ¡ÿÿÿÿÿ
+o	java:S135£"YReduce the total number of break and continue statements in this loop to use at most one.(ÒŒá
+]
+java:S2184Á"FCast one of the operands of this multiplication operation to a "long".(çıˆ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À®Æ‚
+v	java:S116d"\Rename this field "TEST_TABLE_PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ§«Ãüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÕÅã÷şÿÿÿÿ
+U
+java:S1155’">Use isEmpty() to check whether the collection is empty or not.(É¡Ã—
+W	java:S125"<This block of commented-out lines of code should be removed.(˜ùÄŒşÿÿÿÿ
+i
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(æàï’
+R	java:S125"<This block of commented-out lines of code should be removed.(¾¡Å×
+u
+java:S2142Å"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(³øˆ×

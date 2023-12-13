@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úäòù
+Y
+java:S2583e"CChange this condition so that it does not always evaluate to "true"(ºêÆ­
+<
+java:S1165"!Make this "delegate" field final.(¬Ñ–­øÿÿÿÿ
+9
+java:S1165"Make this "cause" field final.(£Â¶üøÿÿÿÿ
+d
+java:S3551N"IMake this method "synchronized" to match the parent class implementation.(á»±àÿÿÿÿÿ
+Q
+java:S1161Ê":Add the "@Override" annotation above this method signature(Á»›ê

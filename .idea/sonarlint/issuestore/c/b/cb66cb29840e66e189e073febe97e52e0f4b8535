@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çŸ¨Ï
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¥¼‰µ
+f
+java:S6202"KReplace this usage of "String.class.isInstance()" with "instanceof String".(¬Ğºƒùÿÿÿÿ
+Z
+java:S2147#"DCombine this catch with the one at line 33, which has the same body.(ï­£Ä
+e
+java:S2674"JCheck the return value of the "read" call to see how many bytes were read.(òÊôŠùÿÿÿÿ
+f
+java:S62024"KReplace this usage of "String.class.isInstance()" with "instanceof String".(ÁØâãüÿÿÿÿ
+f
+java:S6202C"KReplace this usage of "byte[].class.isInstance()" with "instanceof byte[]".(¢ÈÆÒÿÿÿÿÿ
+Y
+java:S4719E">Replace charset name argument with StandardCharsets.ISO_8859_1(‡şÿÁÿÿÿÿÿ

@@ -1,0 +1,16 @@
+
+J
+java:S3740 "/Provide the parametrized type for this generic.(Ä©É¨ıÿÿÿÿ
+F
+java:S3740Æ"/Provide the parametrized type for this generic.(ù¿ñÑ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(»¸±øÿÿÿÿ
+e
+java:S1192ï"NDefine a constant instead of duplicating this literal "No value for " 4 times.(Š¸¾
+k
+java:S1192ô"ODefine a constant instead of duplicating this literal "Bad value for " 3 times.(ëÁÄ×üÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æœâl
+\
+java:S2130H"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(ıİœùÿÿÿÿ
+k
+java:S1172ò"ORemove these unused method parameters "forReplication", "verifyForReplication".(Ë†©¸úÿÿÿÿ

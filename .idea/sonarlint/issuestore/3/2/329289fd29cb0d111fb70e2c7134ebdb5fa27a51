@@ -1,0 +1,20 @@
+
+u
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙçŞÿÿÿÿÿ
+o	java:S135’"YReduce the total number of break and continue statements in this loop to use at most one.(Ã—ä
+F
+java:S1066¤"/Merge this if statement with the enclosing one.(Ññö
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·‹İèùÿÿÿÿ
+u
+java:S1149ş"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆ•´
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ô“§›ûÿÿÿÿ
+_
+java:S1659"CDeclare "index0" and all following declarations on a separate line.(ÀíÕøşÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(ãß¦­ÿÿÿÿÿ
+i
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(ƒ—òŸ
+]
+java:S1126‘"AReplace this if-then-else statement by a single return statement.(¾‚ËÉüÿÿÿÿ
+İ
+java:S6541ø"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 70 to 64, Complexity from 43 to 14, Nesting Level from 7 to 2, Number of Variables from 16 to 6.(ƒ—òŸ

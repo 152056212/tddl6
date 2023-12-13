@@ -1,0 +1,18 @@
+
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(óØç
+^
+java:S11926"HDefine a constant instead of duplicating this literal "Unknown" 5 times.(ùëÕù
+1
+java:S1700"Rename field "VERSION"(á²éµùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼í›‚ùÿÿÿÿ
+h
+java:S3776e"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(şÜÈú
+F
+java:S1197Ë"*Move the array designators [] to the type.(ÔÎ°°ùÿÿÿÿ
+:
+java:S2153Ñ"Remove the boxing to "Double".(ÑÚØèüÿÿÿÿ
+F
+java:S1197Ó"*Move the array designators [] to the type.(øÉ¨Ùıÿÿÿÿ
+:
+java:S2153Õ"Remove the boxing to "Double".(³¶ÓÈûÿÿÿÿ

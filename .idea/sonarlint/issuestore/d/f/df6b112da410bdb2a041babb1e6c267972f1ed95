@@ -1,0 +1,10 @@
+
+j
+java:S1192-"TDefine a constant instead of duplicating this literal " doesn't validate, " 3 times.(†ìªÏ
+^
+java:S1192-"HDefine a constant instead of duplicating this literal " param " 3 times.(†ìªÏ
+E
+java:S10662"/Merge this if statement with the enclosing one.(›ÂÀ
+J
+java:S10668"/Merge this if statement with the enclosing one.(ÒôÕûÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æœâl
