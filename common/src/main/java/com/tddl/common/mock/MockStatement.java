@@ -334,13 +334,11 @@ public class MockStatement implements Statement {
 
     @Override
     public void closeOnCompletion() throws SQLException {
-        // todo
     }
 
     @Override
     public boolean isCloseOnCompletion() throws SQLException {
-        // todo
-        return false;
+        return true;
     }
 
 }
